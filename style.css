@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.felca {
+    width: 500px;
+}
+
+.templario img{
+    margin-left: 1200px;
+    width: 100px;
+    height: 100px;
+}
+
+.story{
+    color: red;
+}
